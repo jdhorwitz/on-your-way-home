@@ -1,13 +1,13 @@
 import React from 'react';
 
-class App extends React.Component {
+class Item extends React.Component {
   render() {
     return (
       <div>
-        Welcome to App 
+        Welcome to Item 
       </div>
     );
   }
 }
 
-export default App;
+export default Item;
